@@ -1,5 +1,5 @@
 # Multi-Person Absolute 3D Human Pose Estimation withWeak Depth Supervision
-This repo contains the code for the paper [Multi-Person Absolute 3D Human Pose Estimation with Weak Depth Supervision](arxiv-link).
+This repo contains the code for the paper [Multi-Person Absolute 3D Human Pose Estimation with Weak Depth Supervision](https://arxiv.org/pdf/2004.03989.pdf).
 
 ## Prerequisites
 The model uses the following packages:
