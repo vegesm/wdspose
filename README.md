@@ -1,5 +1,5 @@
 # Multi-Person Absolute 3D Human Pose Estimation with Weak Depth Supervision
-<p align="center"><img src="examples/skeleton/img.jpg" width="40%" alt="" /><img src="examples/skeleton/skeleton.gif" width="40%" alt="" /></p>
+<p align="center"><img src="examples/skeleton/img.jpg" width="30%" alt="" /> <img src="examples/skeleton/skeleton.gif" width="30%" alt="" /></p>
 
 This repo contains the code for the paper [Multi-Person Absolute 3D Human Pose Estimation with Weak Depth Supervision](https://arxiv.org/pdf/2004.03989.pdf).
 
